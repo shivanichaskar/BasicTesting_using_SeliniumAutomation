@@ -1,1 +1,1 @@
-# BasicTesting_using_SeliniumAutomation
+# SeliniumAutomation using BDD framework
